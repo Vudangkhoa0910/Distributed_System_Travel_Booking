@@ -1,0 +1,180 @@
+{% extends 'base.html' %}
+{% load widget_tweaks %}
+
+{% block service_block %}{% if type != 'S' %}style="visibilty: hidden; display: none;"{% endif %}{% endblock %}
+{% block admin_block %}{% if type != 'A' %}style="visibilty: hidden; display: none;"{% endif %}{% endblock %}
+
+{% block title_block %}Admin{% endblock %}
+
+{% block content_block %}
+
+    <div class="columns">
+
+        <!--       USER PRIVILAGES        -->
+
+        <div class="column has-text-centered">
+            <div class="box">
+                <h3 class="subtitle is-5">User Privilages</h3>
+                <form class="section" method = "POST">
+                    {% csrf_token %}
+                    <div class="field">
+                        <div class="control">
+                            {% render_field form1.email type="text" class="input" placeholder="User Email" %}
+                        </div>
+                    </div>
+                    <div class="field">
+                        <div class="control">
+                            <div class="select is-fullwidth">
+                                <select name="privilage" id="id_privilage">
+                                    {% for x, y in form1.fields.privilage.choices %}
+                                        <option value="{{ x }}">{{ y }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <button name="user_privilage" class="button is-fullwidth is-info is-medium">Confirm</button>
+                </form>
+                <!-- MESSAGES -->
+
+                <div class="tag is-medium">
+                    {% if error1 %}
+                        <div>
+                            <div class="content">
+                                {% for field in form1 %}
+                                    {% if field.errors %}
+                                        <p style="color: red;">{{ field.errors | striptags }}</p>
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    {% elif success1 %}
+                        <div>
+                            <div class="content">
+                                <p style="color: green;">{{ msg1 }}</p>
+                            </div>
+                        </div>
+                    {% else %}
+                        <div>
+                            <div class="content">
+                                <span style="color: blue;">Modify access privilages</span>
+                            </div>
+                        </div>
+                    {% endif %}
+                </div>
+
+
+                <!-- MESSAGES END -->
+            </div>
+        </div>
+
+        <!--       HEARTBEAT RATE        -->
+
+        <div class="column has-text-centered">
+            <div class="box">
+
+                <h3 class="subtitle is-5">Heart Beat Rate (seconds)</h3>
+                <form class="section" method="POST">
+                    {% csrf_token %}
+                    <div class="field">
+                        <div class="control">
+                            {% render_field form2.rate type="number" class="input" placeholder="HeartBeat Rate" %}
+                        </div>
+                    </div>
+                    <button name="heart_beat" class="button is-fullwidth is-info is-medium">Confirm</button>
+                </form>
+
+                <div class="tag is-medium">
+                    {% if error1 %}
+                        <div>
+                            <div class="content">
+                                {% for field in form1 %}
+                                    {% if field.errors %}
+                                        <p style="color: red;">{{ field.errors | striptags }}</p>
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    {% else %}
+                        <div>
+                            <div class="content">
+                                <span style="color: blue;">Set Heart Beat Rate</span>
+                            </div>
+                        </div>
+                    {% endif %}
+                </div>
+
+            </div>
+
+            <div><strong>Set heartbeat rate between 3 and 10 seconds for undisrupted functioning</strong></div>
+
+        </div>
+
+
+    </div>
+
+    <div class="columns">
+
+        <div class="column has-text-centered">
+
+            <div class="box">
+
+                <h3 class="subtitle is-5">Database Details</h3>
+
+                <div>
+                    <table class="table is-fullwidth">
+                        <thead>
+                            <tr>
+                              <th>Sr. No.</th>
+                              <th>Name</th>
+                              <th>IP Address</th>
+                              <th>Port</th>
+                              <th>Size</th>
+                              <th>Status</th>
+                              <th></th>
+                            </tr>
+                      </thead>
+                      <tbody>
+                          {% for db in dbs %}
+                            <tr>
+                                <td>{{ forloop.counter }}</td>
+                                <form method="POST">
+                                    {% csrf_token %}
+                                    <td>
+                                        <div class="field">
+                                            <div class="control">
+                                                <input class="input" type="text" name="name" placeholder="DB Name" value="{{ db.name }}" readonly></input>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="field">
+                                            <div class="control">
+                                                <input class="input" type="text" name="ip_addr" placeholder="IP Address" value="{{ db.ip_addr }}"></input>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="field">
+                                            <div class="control">
+                                                <input class="input" type="text" name="port" placeholder="Port Number" value="{{ db.port }}"></input>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>{{ db.size }}</td>
+                                    <td>{% if db.status == '0' %}<span style="color: red;">INACTIVE</span>{% elif db.status == '1' %}<span style="color: green;">ACTIVE</span>{% else %}<span style="color: blue;">WAITING</span>{% endif %}</td>
+                                    <td><button name="database_edit" type="submit" class="button is-info">Edit</button></td>
+                                </form>
+                            <tr>
+                          {% endfor %}
+                      </tbody>
+                    </table>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+{% endblock %}
