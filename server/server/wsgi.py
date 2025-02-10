@@ -17,6 +17,7 @@ def heartbeat():
     print(S)
     print('----------------------------------------------------------------------------------------------------------')
     for key in S:
+        print(f"Key being queried: {key}")
         db = models.DatabaseDetails.objects.get(name = key)
         if(S[key] == 1):
             pending_updates = models.PendingUpdates.objects.filter(db_name = db.name).order_by('timestamp')

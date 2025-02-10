@@ -1,0 +1,1035 @@
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/accounts/templates with glob **/*.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/templates with glob **/*.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/booking/templates with glob **/*.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/buses/templates with glob **/*.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/hotels/templates with glob **/*.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/person/templates with glob **/*.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/locale with glob **/*.mo.
+Watching dir /Users/vudangkhoa/venv/lib/python3.12/site-packages/widget_tweaks/locale with glob **/*.mo.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/database/locale with glob **/*.mo.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/accounts/locale with glob **/*.mo.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/person/locale with glob **/*.mo.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/hotels/locale with glob **/*.mo.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/booking/locale with glob **/*.mo.
+Watching dir /Users/vudangkhoa/Work/Distributed-Database/server/buses/locale with glob **/*.mo.
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/connection.py first seen with mtime 1736436582.7845488
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/formats.py first seen with mtime 1736436582.7857218
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/management/commands/runserver.py first seen with mtime 1736436582.7514536
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/protocols.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/apps.py first seen with mtime 1736436582.7410893
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/adapters.py first seen with mtime 1720168344.3924987
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/urls.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/security/base.py first seen with mtime 1736436582.7459865
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/mixins.py first seen with mtime 1736436582.7645574
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/mime/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/generic/__init__.py first seen with mtime 1736436582.789911
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/contrib/socks.py first seen with mtime 1720168344.2364798
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/http/cookies.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/files.py first seen with mtime 1736436582.7450175
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/checks.py first seen with mtime 1736436582.3869355
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/http/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/models.py first seen with mtime 1736436582.5177293
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/checks.py first seen with mtime 1736436582.7411773
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/__init__.py first seen with mtime 1736436582.7533808
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/templatetags/tz.py first seen with mtime 1736436582.78194
+File /Users/vudangkhoa/Work/Distributed-Database/server/manage.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/idna/package_data.py first seen with mtime 1720167930.1032815
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/base/creation.py first seen with mtime 1736436582.7542987
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/translation/__init__.py first seen with mtime 1736436582.7879734
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/graphlib.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/encodings/utf_8.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/autoreload.py first seen with mtime 1736436582.7842555
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/threading.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/management/__init__.py first seen with mtime 1736436582.74193
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/certifi/__init__.py first seen with mtime 1720167930.2190228
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/_os.py first seen with mtime 1736436582.7839477
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/utils.py first seen with mtime 1720168344.321377
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/http/request.py first seen with mtime 1736436582.7774668
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/postgresql/client.py first seen with mtime 1736436582.757395
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/models.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/token.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/templatetags/static.py first seen with mtime 1736436582.7818427
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/thread.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/opcode.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/apps.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/quopri.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/cache/backends/__init__.py first seen with mtime 1736436582.7438138
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/engine/grouping.py first seen with mtime 1736436582.28971
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/events.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/backends.py first seen with mtime 1736436582.4869535
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/numberformat.py first seen with mtime 1736436582.7869117
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/decorators/__init__.py first seen with mtime 1736436582.7890685
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/forms/utils.py first seen with mtime 1736436582.7687688
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/base_session.py first seen with mtime 1736436582.6898594
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/conf/locale/__init__.py first seen with mtime 1736436582.3413944
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/admin_list.py first seen with mtime 1736436582.4586885
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/admin.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/sql/subqueries.py first seen with mtime 1736436582.7673435
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_posixsubprocess.cpython-312-darwin.so first seen with mtime 1727862847.560041
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/static.py first seen with mtime 1736436582.788984
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/exceptions.py first seen with mtime 1720168344.3934538
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/generated.py first seen with mtime 1736436582.7643778
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/checks.py first seen with mtime 1736436582.5174189
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py first seen with mtime 1736436582.690358
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/psycopg2/extensions.py first seen with mtime 1736436366.5032287
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/_base.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/idna/idnadata.py first seen with mtime 1720167930.102978
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/duration.py first seen with mtime 1736436582.7853906
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/status_codes.py first seen with mtime 1720168344.39437
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/sql/datastructures.py first seen with mtime 1736436582.766864
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/mime/text.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/md.cpython-312-darwin.so first seen with mtime 1720168344.3215547
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/__init__.py first seen with mtime 1736436582.5171332
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/_policybase.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/middleware.py first seen with mtime 1736436582.4878085
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_random.cpython-312-darwin.so first seen with mtime 1727862847.6231413
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/dis.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/exceptions.py first seen with mtime 1720168344.2347724
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/images.py first seen with mtime 1736436582.7466063
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/wsgiref/util.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/exceptions.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/tokens.py first seen with mtime 1736436582.48831
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/encoding.py first seen with mtime 1736436582.7854989
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/wsgiref/simple_server.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/logging/handlers.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/management/base.py first seen with mtime 1736436582.7496521
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/forms.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/decoder.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/admin_urls.py first seen with mtime 1736436582.4588654
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/collections/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/base/features.py first seen with mtime 1736436582.7544124
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/__init__.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/metadata/_adapters.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/__future__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/connection.py first seen with mtime 1720168344.2380133
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/views.py first seen with mtime 1736436582.7418451
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/sites.py first seen with mtime 1736436582.3878305
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/utils.py first seen with mtime 1736436582.7605171
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/decorators.py first seen with mtime 1736436582.4874794
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/views/__init__.py first seen with mtime 1736436582.459096
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_events.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/json.py first seen with mtime 1736436582.7644758
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/resources/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/cache/backends/base.py first seen with mtime 1736436582.743943
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/handlers.py first seen with mtime 1736436582.7413723
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/_collections.py first seen with mtime 1720168344.2336042
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/unix_events.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/move.py first seen with mtime 1736436582.746788
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/bisect.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/mail.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/__init__.py first seen with mtime 1736436582.689689
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/ssl_match_hostname.py first seen with mtime 1720168344.2389126
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_hashlib.cpython-312-darwin.so first seen with mtime 1727862847.1975775
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/storage/base.py first seen with mtime 1736436582.641533
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/generic/detail.py first seen with mtime 1736436582.790256
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socketserver.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/functions/__init__.py first seen with mtime 1736436582.7658246
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/csv.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/response.py first seen with mtime 1736436582.7798154
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/urllib/response.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/encodings/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/psycopg2/_ipaddress.py first seen with mtime 1736436366.5023885
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/exceptions.py first seen with mtime 1736436582.7430131
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/legacy.py first seen with mtime 1720168344.3205347
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/api.py first seen with mtime 1720168344.3926454
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/filters.py first seen with mtime 1736436582.3872354
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/views.py first seen with mtime 1736436582.4886014
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/loaders/base.py first seen with mtime 1736436582.7811878
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/log.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/constraints.py first seen with mtime 1736436582.761997
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/http/server.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/sslproto.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/connection.py first seen with mtime 1720168344.2342634
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/library.py first seen with mtime 1736436582.7795105
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/handlers/wsgi.py first seen with mtime 1736436582.7482471
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/postgresql/creation.py first seen with mtime 1736436582.7574751
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/encoders.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/backends/__init__.py first seen with mtime 1736436582.6902435
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_sha2.cpython-312-darwin.so first seen with mtime 1727862847.7145965
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/_internal_utils.py first seen with mtime 1720168344.3923228
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/operations/models.py first seen with mtime 1736436582.7610397
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/tokens.py first seen with mtime 1736436582.28931
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ast.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/random.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/forms/hstore.py first seen with mtime 1736436582.6447818
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/forms/models.py first seen with mtime 1736436582.7685719
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/options.py first seen with mtime 1736436582.3877184
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/urls.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/inspect.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/_markupbase.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/loaders/cached.py first seen with mtime 1736436582.781267
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/security/__init__.py first seen with mtime 1736436582.745875
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/backends/django.py first seen with mtime 1736436582.7807012
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/base.py first seen with mtime 1736436582.7787445
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/timeout.py first seen with mtime 1720168344.2394028
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/__init__.py first seen with mtime 1736436582.458576
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_struct.cpython-312-darwin.so first seen with mtime 1727862847.9062452
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/base/introspection.py first seen with mtime 1736436582.754514
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/__init__.py first seen with mtime 1736436582.7536561
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/resources/readers.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/autoreload.py first seen with mtime 1736436582.7785292
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/message.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/postgresql/schema.py first seen with mtime 1736436582.7582903
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/http/client.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/abc.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/loaders/__init__.py first seen with mtime 1736436582.7810283
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/re/_parser.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/storage/handler.py first seen with mtime 1736436582.7476013
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/certifi/core.py first seen with mtime 1720167930.221146
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/tempfile.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/psycopg2/_json.py first seen with mtime 1736436366.5011065
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/linecache.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/registry.py first seen with mtime 1736436582.7453096
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/apps.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/subprocess.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/urls/__init__.py first seen with mtime 1736436582.7832763
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/apps.py first seen with mtime 1736436582.6897779
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/decorators/common.py first seen with mtime 1736436582.7893362
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/traceback.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/fields/utils.py first seen with mtime 1736436582.6444998
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/copyreg.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/deprecation.py first seen with mtime 1736436582.7853034
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/filepost.py first seen with mtime 1720168344.2351727
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/operations/__init__.py first seen with mtime 1736436582.7607298
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_lzma.cpython-312-darwin.so first seen with mtime 1727862847.331151
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/module_loading.py first seen with mtime 1736436582.7868276
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/proxy.py first seen with mtime 1720168344.2381425
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/locks.py first seen with mtime 1736436582.7466986
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/metadata/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/http/cookie.py first seen with mtime 1736436582.7772522
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_blake2.cpython-312-darwin.so first seen with mtime 1727862846.5753539
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/html/__init__.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/getpass.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/resources/_itertools.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/sessions.py first seen with mtime 1720168344.3942194
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/zoneinfo/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/constants.py first seen with mtime 1736436582.6408355
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/urls.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/urls/base.py first seen with mtime 1736436582.7833695
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/_header_value_parser.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/postgresql/features.py first seen with mtime 1736436582.7577012
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_uuid.cpython-312-darwin.so first seen with mtime 1727862848.183519
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/templatetags/cache.py first seen with mtime 1736436582.78157
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/signals.py first seen with mtime 1736436582.7636604
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/hmac.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/loader.py first seen with mtime 1736436582.7598174
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/cd.py first seen with mtime 1720168344.323119
+File /Users/vudangkhoa/Work/Distributed-Database/server/server/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/ddl_references.py first seen with mtime 1736436582.7537582
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/servers/basehttp.py first seen with mtime 1736436582.7532644
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/keywords.py first seen with mtime 1736436582.2889974
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/forms/ranges.py first seen with mtime 1736436582.6448634
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/apps.py first seen with mtime 1736436582.6407542
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/unicodedata.cpython-312-darwin.so first seen with mtime 1727862848.9587855
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/apps.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/resources/abc.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/base64.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/__init__.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/_sysconfigdata__darwin_darwin.py first seen with mtime 1727862849.0985367
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_asyncio.cpython-312-darwin.so first seen with mtime 1727862846.5137835
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/quoprimime.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/generic/edit.py first seen with mtime 1736436582.7904258
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/md__mypyc.cpython-312-darwin.so first seen with mtime 1720168344.322846
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/conf/__init__.py first seen with mtime 1736436582.3404942
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/recorder.py first seen with mtime 1736436582.7601838
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/hashlib.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/constants.py first seen with mtime 1736436582.7618916
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/compatibility/django_4_0.py first seen with mtime 1736436582.7457867
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/filters/reindent.py first seen with mtime 1736436582.290276
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_subprocess.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/fields/jsonb.py first seen with mtime 1736436582.644328
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/termcolors.py first seen with mtime 1736436582.7872112
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/servers/__init__.py first seen with mtime 1736436582.7531605
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/dateformat.py first seen with mtime 1736436582.7848368
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/forms.py first seen with mtime 1736916402.5715985
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/models.py first seen with mtime 1720168344.3207943
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/utils.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/taskgroups.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/views.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/base/validation.py first seen with mtime 1736436582.7548726
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/dispatch/__init__.py first seen with mtime 1736436582.7676005
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/transaction.py first seen with mtime 1736436582.753491
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/decimal.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/postgresql/__init__.py first seen with mtime 1736436582.7572021
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/re/_constants.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/sql.py first seen with mtime 1736436582.289216
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/types.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/middleware.py first seen with mtime 1736436582.640998
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/errors.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/graph.py first seen with mtime 1736436582.7597198
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_bisect.cpython-312-darwin.so first seen with mtime 1727862846.54446
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/datastructures.py first seen with mtime 1736436582.784739
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/apps.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/hashers.py first seen with mtime 1736436582.4877043
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/loader.py first seen with mtime 1736436582.7795947
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/zoneinfo/_common.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/models.py first seen with mtime 1736436582.4880118
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/urllib/error.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_decimal.cpython-312-darwin.so first seen with mtime 1727862847.1286168
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/api.py first seen with mtime 1736436582.6405754
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/engine/__init__.py first seen with mtime 1736436582.2895167
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/signal.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_futures.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/filters/__init__.py first seen with mtime 1736436582.2899108
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pickle.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/storage/filesystem.py first seen with mtime 1736436582.7475195
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/logging/config.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/storage/memory.py first seen with mtime 1736436582.7476916
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/base.py first seen with mtime 1736436582.7465136
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/views/main.py first seen with mtime 1736436582.459375
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/cache/utils.py first seen with mtime 1736436582.7437322
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/utils.py first seen with mtime 1736436582.7472274
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/helpers.py first seen with mtime 1736436582.3874316
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/finders.py first seen with mtime 1736436582.7412808
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/middleware/security.py first seen with mtime 1736436582.7783377
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/decorators.py first seen with mtime 1736436582.785204
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/encodings/aliases.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/management/commands/__init__.py first seen with mtime 1736436582.750099
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/smartif.py first seen with mtime 1736436582.7799072
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_pickle.cpython-312-darwin.so first seen with mtime 1727862847.4870431
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/apps.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/inspect.py first seen with mtime 1736436582.78627
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/calendar.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/middleware/__init__.py first seen with mtime 1736436582.777645
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/safestring.py first seen with mtime 1736436582.7871108
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/utils.py first seen with mtime 1736436582.6434
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/engine/filter_stack.py first seen with mtime 1736436582.2896035
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/ssl_.py first seen with mtime 1720168344.2387626
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/base_user.py first seen with mtime 1736436582.4870522
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/forms/formsets.py first seen with mtime 1736436582.7684271
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/fields.py first seen with mtime 1720168344.2350314
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/operations/special.py first seen with mtime 1736436582.7611408
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/middleware/common.py first seen with mtime 1736436582.777928
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/header.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/collections/abc.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/__init__.py first seen with mtime 1736436582.3397381
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/functools.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/cookies.py first seen with mtime 1720168344.3933105
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/runners.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/timesince.py first seen with mtime 1736436582.7874343
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/formatter.py first seen with mtime 1736436582.2888632
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/utils.py first seen with mtime 1736436582.6412396
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_bz2.cpython-312-darwin.so first seen with mtime 1727862846.605557
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/loaders/filesystem.py first seen with mtime 1736436582.7813418
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/urllib/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/postgresql/operations.py first seen with mtime 1736436582.7579212
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/tokenize.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/dateparse.py first seen with mtime 1736436582.7849376
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/conf/urls/__init__.py first seen with mtime 1736436582.3862202
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/validators.py first seen with mtime 1736436582.743415
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/__init__.py first seen with mtime 1736436582.7784505
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/middleware/clickjacking.py first seen with mtime 1736436582.7778277
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/socks.py first seen with mtime 1737513921.2846081
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_datetime.cpython-312-darwin.so first seen with mtime 1727862847.0553105
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/re/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/ssltransport.py first seen with mtime 1720168344.2391548
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/choices.py first seen with mtime 1736436582.784458
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/middleware.py first seen with mtime 1736436582.6900184
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/contextlib.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/password_validation.py first seen with mtime 1736436582.4881177
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/filters/right_margin.py first seen with mtime 1736436582.2903564
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/lexer.py first seen with mtime 1736436582.2890983
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/apps/registry.py first seen with mtime 1736436582.3403506
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/models.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/bz2.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/gettext.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/apps.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/storage/base.py first seen with mtime 1736436582.7474296
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/functions/datetime.py first seen with mtime 1736436582.7660344
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/base/schema.py first seen with mtime 1736436582.754788
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/trsock.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/platform.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/models.py first seen with mtime 1720168344.3939114
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/i18n.py first seen with mtime 1736436582.78889
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/metadata/_functools.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/utils.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_json.cpython-312-darwin.so first seen with mtime 1727862847.2608666
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/regex_helper.py first seen with mtime 1736436582.7870305
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/apps.py first seen with mtime 1736436582.38681
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pathlib.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/threads.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/exceptions.py first seen with mtime 1736436582.6899366
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/postgresql/base.py first seen with mtime 1736436582.7573142
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/__init__.py first seen with mtime 1720168344.2331457
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/_request_methods.py first seen with mtime 1720168344.2338796
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/policy.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/log.py first seen with mtime 1736436582.7866483
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/mime/base.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/postgresql/psycopg_any.py first seen with mtime 1736436582.7580974
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/select.cpython-312-darwin.so first seen with mtime 1727862848.853793
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/models.py first seen with mtime 1736436582.6900961
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/storage/mixins.py first seen with mtime 1736436582.7477686
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/deletion.py first seen with mtime 1736436582.762102
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/cache/backends/filebased.py first seen with mtime 1736436582.744221
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/forms/__init__.py first seen with mtime 1736436582.7679257
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/socket.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/selector_events.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/iterators.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/selectors.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/__init__.py first seen with mtime 1720168344.2378643
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/loaders/app_directories.py first seen with mtime 1736436582.781112
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/html.py first seen with mtime 1736436582.7860537
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/__init__.py first seen with mtime 1720168344.3209422
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_contextvars.cpython-312-darwin.so first seen with mtime 1727862846.823767
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/contentmanager.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/fields/ranges.py first seen with mtime 1736436582.6444218
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/management/color.py first seen with mtime 1736436582.7497373
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/__init__.py first seen with mtime 1736436582.7838616
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/search.py first seen with mtime 1736436582.6429567
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_scproxy.cpython-312-darwin.so first seen with mtime 1727862847.6539092
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/__init__.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/headerregistry.py first seen with mtime 1736607810.618725
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/zoneinfo/_tzpath.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/metadata/_meta.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/fnmatch.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/exceptions.py first seen with mtime 1736436582.7793908
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/structures.py first seen with mtime 1720168344.3945045
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/forms.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/exceptions.py first seen with mtime 1736436582.387124
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/filters/others.py first seen with mtime 1736436582.2900934
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/utils.py first seen with mtime 1736436582.763748
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/generic/dates.py first seen with mtime 1736436582.7901185
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/_base_connection.py first seen with mtime 1720168344.2333758
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/filters/aligned_indent.py first seen with mtime 1736436582.290006
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/csrf.py first seen with mtime 1736436582.7885742
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/secrets.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/widget_tweaks/templatetags/__init__.py first seen with mtime 1736608885.2868838
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/forms.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/sql/query.py first seen with mtime 1736436582.7672348
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/timezone.py first seen with mtime 1736436582.7875462
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/models.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/admin.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/forms/__init__.py first seen with mtime 1736436582.6446085
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/__init__.py first seen with mtime 1736436582.7464068
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/sysconfig.py first seen with mtime 1727862849.1050203
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/urllib/request.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/response.py first seen with mtime 1720168344.2358725
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/admin.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/glob.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/response.py first seen with mtime 1720168344.238429
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/engine.py first seen with mtime 1736436582.7793074
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/http.py first seen with mtime 1736436582.7861822
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/http/__init__.py first seen with mtime 1736436582.7771645
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/serializers/base.py first seen with mtime 1736436582.7526429
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/urls/exceptions.py first seen with mtime 1736436582.783601
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/widget_tweaks/models.py first seen with mtime 1736608885.2867763
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/sql/__init__.py first seen with mtime 1736436582.7664971
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/asgiref/local.py first seen with mtime 1736436582.3115177
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/fields/__init__.py first seen with mtime 1736436582.6439617
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/handlers/asgi.py first seen with mtime 1736436582.7479548
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/forms.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/related.py first seen with mtime 1736436582.7649848
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/mime/message.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/security/csrf.py first seen with mtime 1736436582.7461889
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/functions/comparison.py first seen with mtime 1736436582.765917
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/lookups.py first seen with mtime 1736436582.7628183
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/operations/base.py first seen with mtime 1736436582.7608302
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ssl.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/array.cpython-312-darwin.so first seen with mtime 1727862848.3455815
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/widgets.py first seen with mtime 1736436582.3881514
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/version.py first seen with mtime 1720168344.3203766
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/translation/reloader.py first seen with mtime 1736436582.7880647
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/__init__.py first seen with mtime 1736436582.2884
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/templatetags/__init__.py first seen with mtime 1736436582.781483
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/operations/fields.py first seen with mtime 1736436582.7609313
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/staggered.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/contextvars.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/base64mime.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/__init__.py first seen with mtime 1736436582.740988
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/gzip.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/management/__init__.py first seen with mtime 1736436582.5153055
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/forms/array.py first seen with mtime 1736436582.6446965
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/decorators.py first seen with mtime 1736436582.3870325
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/__init__.py first seen with mtime 1720168344.3920398
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/compatibility/__init__.py first seen with mtime 1736436582.7456856
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/related_lookups.py first seen with mtime 1736436582.76558
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/storage/__init__.py first seen with mtime 1736436582.7473383
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/widget_tweaks/__init__.py first seen with mtime 1736608885.286678
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/models.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/packages.py first seen with mtime 1720168344.3940372
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/generator.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sites/requests.py first seen with mtime 1736436582.7168798
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/psycopg2/extras.py first seen with mtime 1736436366.5012665
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/uploadedfile.py first seen with mtime 1736436582.7469575
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/urls/resolvers.py first seen with mtime 1736436582.783711
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/shortcuts.py first seen with mtime 1736436582.3399913
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/temp.py first seen with mtime 1736436582.7468696
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/ipaddress.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/functional.py first seen with mtime 1736436582.7858448
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/request.py first seen with mtime 1720168344.2382898
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/locks.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/binascii.cpython-312-darwin.so first seen with mtime 1727862848.4103603
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/constants.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/mime/nonmultipart.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/fields/citext.py first seen with mtime 1736436582.6441615
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/psycopg2/_psycopg.cpython-312-darwin.so first seen with mtime 1736436366.5018818
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/numbers.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/defaults.py first seen with mtime 1736436582.7887888
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/zipfile/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/middleware/csrf.py first seen with mtime 1736436582.7780294
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/forms/renderers.py first seen with mtime 1736436582.768665
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/widget_tweaks/templatetags/widget_tweaks.py first seen with mtime 1736608885.2870238
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/math.cpython-312-darwin.so first seen with mtime 1727862848.6143913
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/dispatch/dispatcher.py first seen with mtime 1736436582.767705
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/http/multipartparser.py first seen with mtime 1736436582.7773578
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/psycopg2/errors.py first seen with mtime 1736436366.5033221
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/copy.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/actions.py first seen with mtime 1736436582.3867226
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/translation/trans_real.py first seen with mtime 1736436582.7883604
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/idna/intranges.py first seen with mtime 1720167930.1031516
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pprint.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/__init__.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/encoder.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/base/__init__.py first seen with mtime 1736436582.7539945
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/apps.py first seen with mtime 1736436582.4868567
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/functions/mixins.py first seen with mtime 1736436582.7662091
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/hooks.py first seen with mtime 1720168344.3937201
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/_parseaddr.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/datetime.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/utils.py first seen with mtime 1736436582.3880334
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/security/sessions.py first seen with mtime 1736436582.7462807
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_multibytecodec.cpython-312-darwin.so first seen with mtime 1727862847.394198
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/cache/__init__.py first seen with mtime 1736436582.7436392
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/html/entities.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/fields/hstore.py first seen with mtime 1736436582.644248
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/cli.py first seen with mtime 1736436582.288652
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/_weakrefset.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/__init__.py first seen with mtime 1736436582.3866258
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_socket.cpython-312-darwin.so first seen with mtime 1727862847.7804253
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/database.py first seen with mtime 1736436582.7449298
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/decorators/debug.py first seen with mtime 1736436582.7895172
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/serializers/json.py first seen with mtime 1736436582.7527287
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/sitecustomize.py first seen with mtime 1727862849.1006696
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/urllib/parse.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/cache.py first seen with mtime 1736436582.7843611
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/resources/_common.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/apps.py first seen with mtime 1736436582.5173328
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/constant.py first seen with mtime 1720168344.3219876
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/functions/math.py first seen with mtime 1736436582.7661285
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/debug.py first seen with mtime 1736436582.788685
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/admin.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/transports.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/urls.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_csv.cpython-312-darwin.so first seen with mtime 1727862846.885012
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/decorators/csrf.py first seen with mtime 1736436582.789421
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/reprlib.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/defaulttags.py first seen with mtime 1736436582.779204
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/hashable.py first seen with mtime 1736436582.78594
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/decorators/cache.py first seen with mtime 1736436582.7891672
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/argparse.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/__init__.py first seen with mtime 1736436582.486659
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/files.py first seen with mtime 1736436582.764279
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/metadata/_text.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/backends/base.py first seen with mtime 1736436582.7805977
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/views.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/utils.py first seen with mtime 1736436582.7417574
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/reverse_related.py first seen with mtime 1736436582.7657058
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/_osx_support.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/asgiref/current_thread_executor.py first seen with mtime 1736436582.3113916
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/authentication.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/_encoded_words.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/encodings/idna.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/fcntl.cpython-312-darwin.so first seen with mtime 1727862848.5520103
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/signals.py first seen with mtime 1736436582.7538328
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/__init__.py first seen with mtime 1736436582.3864799
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/handlers/__init__.py first seen with mtime 1736436582.7478342
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/__init__.py first seen with mtime 1736436582.7884862
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/psycopg2/_range.py first seen with mtime 1736436366.502292
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/templatetags/i18n.py first seen with mtime 1736436582.7816708
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/apps/config.py first seen with mtime 1736436582.3402314
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/exceptions.py first seen with mtime 1736436582.7595172
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/query.py first seen with mtime 1736436582.763463
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/templates.py first seen with mtime 1736436582.7453995
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/views.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/html/parser.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/encodings/utf_8_sig.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/__init__.py first seen with mtime 1736436582.7428126
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/compat.py first seen with mtime 1720168344.3931482
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/termios.cpython-312-darwin.so first seen with mtime 1727862848.9214735
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/__init__.py first seen with mtime 1736436582.7446516
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/queues.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/expressions.py first seen with mtime 1736436582.7625933
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/idna/core.py first seen with mtime 1720167930.1026928
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/_version.py first seen with mtime 1720168344.2340345
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/base/operations.py first seen with mtime 1736436582.7546263
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/metadata/_itertools.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/_abc.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/__init__.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/_compression.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/futures.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/utils.py first seen with mtime 1720168344.3947008
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/crypto.py first seen with mtime 1736436582.7846377
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/locale.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/tree.py first seen with mtime 1736436582.7876492
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/model_checks.py first seen with mtime 1736436582.745214
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/signals.py first seen with mtime 1736436582.7432034
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/version.py first seen with mtime 1736436582.7877436
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/charset_normalizer/api.py first seen with mtime 1720168344.3211172
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/poolmanager.py first seen with mtime 1720168344.2355156
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/urls/converters.py first seen with mtime 1736436582.7835283
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/indexes.py first seen with mtime 1736436582.762704
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/timeouts.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/feedparser.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/functions/window.py first seen with mtime 1736436582.766379
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pkgutil.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/urls/utils.py first seen with mtime 1736436582.7837906
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/sql/constants.py first seen with mtime 1736436582.7667599
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/metadata/_collections.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/server/urls.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/management/commands/__init__.py first seen with mtime 1736436582.7420232
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_zoneinfo.cpython-312-darwin.so first seen with mtime 1727862848.3116214
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/middleware/cache.py first seen with mtime 1736436582.7777488
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/checks.py first seen with mtime 1736436582.487153
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/json/scanner.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/ipv6.py first seen with mtime 1736436582.7863548
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/util.py first seen with mtime 1720168344.2397673
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/sql/where.py first seen with mtime 1736436582.7674654
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/models.py first seen with mtime 1736921584.17585
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/state.py first seen with mtime 1736436582.760419
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/defaultfilters.py first seen with mtime 1736436582.7790372
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/wait.py first seen with mtime 1720168344.2401145
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/async_checks.py first seen with mtime 1736436582.744742
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/generic/list.py first seen with mtime 1736436582.7907677
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/forms/forms.py first seen with mtime 1736436582.7683172
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/__init__.py first seen with mtime 1736436582.6403906
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/mime/multipart.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/stringprep.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/management/__init__.py first seen with mtime 1736436582.7495453
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/aggregates.py first seen with mtime 1736436582.7613564
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/zipfile/_path/glob.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/mail/message.py first seen with mtime 1736436582.7484684
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/urls.py first seen with mtime 1736436582.745597
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/models.py first seen with mtime 1736436582.3875306
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/backends/__init__.py first seen with mtime 1736436582.7804956
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/admin.py first seen with mtime 1736436582.5172434
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/mixins.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/_compat_pickle.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/operator.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/forms.py first seen with mtime 1736436582.4875927
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/parser.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/__init__.py first seen with mtime 1736436582.7641666
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/functions/text.py first seen with mtime 1736436582.7662964
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/contrib/__init__.py first seen with mtime 1720168344.2359915
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/zlib.cpython-312-darwin.so first seen with mtime 1727862849.0880988
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/forms/boundfield.py first seen with mtime 1736436582.7680445
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/engine/statement_splitter.py first seen with mtime 1736436582.2897975
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/messages.py first seen with mtime 1736436582.745108
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/utils.py first seen with mtime 1736436582.7804065
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/log.py first seen with mtime 1736436582.459024
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/apps/__init__.py first seen with mtime 1736436582.3401172
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/signals.py first seen with mtime 1736436582.4882052
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/__init__.py first seen with mtime 1736436582.6419597
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/handlers/exception.py first seen with mtime 1736436582.7481525
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/utils.py first seen with mtime 1736436582.7535832
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/idna/__init__.py first seen with mtime 1720167930.1021318
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/certs.py first seen with mtime 1720168344.393017
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/heapq.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_queue.cpython-312-darwin.so first seen with mtime 1727862847.5925002
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/filters/tokens.py first seen with mtime 1736436582.2904382
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/utils.py first seen with mtime 1736436582.2893977
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/_distutils_hack/__init__.py first seen with mtime 1737513277.938562
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/dates.py first seen with mtime 1736436582.7850256
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/wsgi.py first seen with mtime 1736436582.7435024
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/re/_casefix.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/admin.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/serializers/python.py first seen with mtime 1736436582.752904
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/string.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/proxy.py first seen with mtime 1736436582.7646384
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/urls.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/zipfile/_path/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/retry.py first seen with mtime 1720168344.2385924
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/readers.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/text.py first seen with mtime 1736436582.7873302
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_heapq.cpython-312-darwin.so first seen with mtime 1727862847.22856
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/management/__init__.py first seen with mtime 1736436582.5409565
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/lorem_ipsum.py first seen with mtime 1736436582.7867453
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/coroutines.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/asgiref/__init__.py first seen with mtime 1736436582.3111327
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/filters/output.py first seen with mtime 1736436582.290176
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/mail/utils.py first seen with mtime 1736436582.748546
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/options.py first seen with mtime 1736436582.7631435
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/management/commands/runserver.py first seen with mtime 1736436582.7424388
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/fields/array.py first seen with mtime 1736436582.6440744
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/base/base.py first seen with mtime 1736436582.7541132
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/cache/backends/locmem.py first seen with mtime 1736436582.7443104
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/paginator.py first seen with mtime 1736436582.7431164
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/http/cookiejar.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/urls/conf.py first seen with mtime 1736436582.7834508
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/validators.py first seen with mtime 1736436582.4884908
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/keyword.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/__init__.py first seen with mtime 1736436582.7612607
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sites/__init__.py first seen with mtime 1736436582.7161863
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/logging/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/signing.py first seen with mtime 1736436582.7433045
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/wsgiref/handlers.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py first seen with mtime 1736436582.7653668
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/util/url.py first seen with mtime 1720168344.2396271
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/__version__.py first seen with mtime 1720168344.3921876
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sites/shortcuts.py first seen with mtime 1736436582.71696
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/views.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/tasks.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/templatetags/l10n.py first seen with mtime 1736436582.7817552
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/forms.py first seen with mtime 1736436582.5176282
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/resources/_legacy.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/psycopg2/sql.py first seen with mtime 1736436366.5034518
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/asyncio.py first seen with mtime 1736436582.7841408
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/utils/deconstruct.py first seen with mtime 1736436582.7851114
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/manager.py first seen with mtime 1736436582.7629235
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_opcode.cpython-312-darwin.so first seen with mtime 1727862847.4559324
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/postgresql/introspection.py first seen with mtime 1736436582.7578034
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/difflib.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/base.py first seen with mtime 1736436582.7618012
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/views/autocomplete.py first seen with mtime 1736436582.4591932
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/executor.py first seen with mtime 1736436582.7596092
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/shutil.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/warnings.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/utils.py first seen with mtime 1736436582.7539265
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/textwrap.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/loader_tags.py first seen with mtime 1736436582.7797146
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/__init__.py first seen with mtime 1736436582.7592754
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/forms/widgets.py first seen with mtime 1736436582.7688942
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/enums.py first seen with mtime 1736436582.7621965
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/translation.py first seen with mtime 1736436582.7454913
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/enum.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/weakref.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/typing.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lib-dynload/_ssl.cpython-312-darwin.so first seen with mtime 1727862847.8445702
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/queue.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/files/uploadhandler.py first seen with mtime 1736436582.747145
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/urllib3/connectionpool.py first seen with mtime 1720168344.2345014
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/forms/fields.py first seen with mtime 1736436582.7681844
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/streams.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/serializers/__init__.py first seen with mtime 1736436582.7525353
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/context.py first seen with mtime 1736436582.7788422
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/lookups.py first seen with mtime 1736436582.6427555
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/views/generic/base.py first seen with mtime 1736436582.7900107
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/mimetypes.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/uuid.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/importlib/resources/_adapters.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/base.py first seen with mtime 1736436582.4589453
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/fields.py first seen with mtime 1736436582.5175388
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/postgres/validators.py first seen with mtime 1736436582.6434877
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/handlers/base.py first seen with mtime 1736436582.7480576
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/lzma.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/email/charset.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/storage/__init__.py first seen with mtime 1736436582.6414418
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/psycopg2/__init__.py first seen with mtime 1736436366.5024955
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/admin.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/struct.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/__init__.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/re/_compiler.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/wsgiref/headers.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/server/settings.py first seen with mtime 1737693007.6162505
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/migrations/migration.py first seen with mtime 1736436582.7599099
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/mail/__init__.py first seen with mtime 1736436582.7483673
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/core/checks/caches.py first seen with mtime 1736436582.744839
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/backends/base/client.py first seen with mtime 1736436582.754194
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/asgiref/sync.py first seen with mtime 1736436582.3118918
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/admin.py first seen with mtime 1736436582.486764
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/views.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/sqlparse/exceptions.py first seen with mtime 1736436582.288763
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/query_utils.py first seen with mtime 1736436582.7635696
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/conf/global_settings.py first seen with mtime 1736436582.3406453
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/dataclasses.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/models.py first seen with mtime 1558634916.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/wsgiref/__init__.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/views.py first seen with mtime 1736436582.5179052
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/requests/auth.py first seen with mtime 1720168344.3928895
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/admin_modify.py first seen with mtime 1736436582.4587796
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/format_helpers.py first seen with mtime 1725649427.0
+File /opt/homebrew/Cellar/python@3.12/3.12.6/Frameworks/Python.framework/Versions/3.12/lib/python3.12/asyncio/base_tasks.py first seen with mtime 1725649427.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/http/response.py first seen with mtime 1736436582.7775726
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/templates/accounts first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/templates/accounts/reset.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/templates/accounts/base.html first seen with mtime 1736904719.0139115
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/templates/accounts/reset_done.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/templates/accounts/login.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/templates/accounts/forgot.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/templates/accounts/signup.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/templates/base.html first seen with mtime 1736904492.6746647
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/templates/booking first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/templates/booking/upcoming_hotels.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/templates/booking/details_bus.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/templates/booking/upcoming_buses.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/templates/booking/details.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/templates/booking/past_buses.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/templates/booking/past_hotels.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/templates/buses first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/templates/buses/details.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/templates/buses/display.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/templates/buses/bookings.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/templates/buses/search.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/templates/hotels first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/templates/hotels/details.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/templates/hotels/display.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/templates/hotels/bookings.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/templates/hotels/search.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/templates/person first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/templates/person/hotel_service_edit.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/templates/person/admin.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/templates/person/dashboard.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/templates/person/bus_service_edit.html first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/templates/person/services.html first seen with mtime 1558634916.0
+(0.006) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.001) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.001) SELECT "database_databasedetails"."name", "database_databasedetails"."ip_addr", "database_databasedetails"."port", "database_databasedetails"."size", "database_databasedetails"."status" FROM "database_databasedetails" WHERE NOT ("database_databasedetails"."name" = 'primary'); args=('primary',); alias=db03
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0003_servicemetadata_capacity.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0009_alter_user_last_name_max_length.py first seen with mtime 1736436582.5163925
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/migrations/0003_logentry_add_action_flag_choices.py first seen with mtime 1736436582.4369056
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0019_auto_20190427_2333.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0002_alter_permission_name_max_length.py first seen with mtime 1736436582.5158052
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/migrations/__init__.py first seen with mtime 1736436582.7155228
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0008_alter_user_username_max_length.py first seen with mtime 1736436582.5163045
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0013_auto_20190426_2159.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/buses/migrations/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0002_remove_servicemetadata_capacity.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0012_alter_user_first_name_max_length.py first seen with mtime 1736436582.5166643
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0021_alter_heartbeatrate_id_alter_pendingupdates_id.py first seen with mtime 1737600409.1589396
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0012_pendingupdates_db_name.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0004_alter_user_username_opts.py first seen with mtime 1736436582.5159662
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0016_auto_20190426_2226.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/server/wsgi.py first seen with mtime 1737601102.1399603
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0001_initial.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0001_initial.py first seen with mtime 1736436582.5157187
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/db/models/sql/compiler.py first seen with mtime 1736436582.7666707
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0008_servicemetadata_db_name_0.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0003_alter_user_email_max_length.py first seen with mtime 1736436582.5158873
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0015_auto_20190426_2213.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/migrations/0001_initial.py first seen with mtime 1736436582.541259
+File /Users/vudangkhoa/Work/Distributed-Database/server/hotels/migrations/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0011_update_proxy_permissions.py first seen with mtime 1736436582.5165725
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0009_auto_20190425_1044.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/person/migrations/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0014_auto_20190426_2204.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/migrations/0001_initial.py first seen with mtime 1736436582.4367242
+File /Users/vudangkhoa/Work/Distributed-Database/server/server/database_router.py first seen with mtime 1737692967.4293523
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0007_alter_validators_add_error_messages.py first seen with mtime 1736436582.5162199
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0020_heartbeatrate.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0018_usermetadata_db_name_0.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/migrations/0001_initial.py first seen with mtime 1736436582.71548
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py first seen with mtime 1736436582.516044
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0007_auto_20190425_1006.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0006_auto_20190425_0019.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/migrations/0002_logentry_remove_auto_add.py first seen with mtime 1736436582.4368145
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/migrations/__init__.py first seen with mtime 1736436582.5413868
+File /Users/vudangkhoa/Work/Distributed-Database/server/booking/migrations/__init__.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0017_auto_20190426_2308.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0010_alter_group_name_max_length.py first seen with mtime 1736436582.5164807
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0011_pendingupdates_timestamp.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0005_databasedetails_status.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0010_pendingupdates.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/backends/db.py first seen with mtime 1736436582.6906517
+File /Users/vudangkhoa/Work/Distributed-Database/server/database/migrations/0004_bookingmetadata.py first seen with mtime 1558634916.0
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/__init__.py first seen with mtime 1736436582.516706
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/admin/migrations/__init__.py first seen with mtime 1736436582.4369452
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/migrations/0006_require_contenttypes_0002.py first seen with mtime 1736436582.5161304
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/contenttypes/migrations/0002_remove_content_type_name.py first seen with mtime 1736436582.5413456
+File /Users/vudangkhoa/Work/Distributed-Database/server/accounts/migrations/__init__.py first seen with mtime 1558634916.0
+(0.005) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.001) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.002) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.001) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.014) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'admin' AND "django_content_type"."model" IN ('logentry')); args=('admin', 'logentry'); alias=default
+(0.004) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (1) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(1,); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'auth' AND "django_content_type"."model" IN ('permission', 'user', 'group')); args=('auth', 'permission', 'user', 'group'); alias=default
+(0.001) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (2, 3, 4) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(2, 3, 4); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'contenttypes' AND "django_content_type"."model" IN ('contenttype')); args=('contenttypes', 'contenttype'); alias=default
+(0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (5) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(5,); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sessions' AND "django_content_type"."model" IN ('session')); args=('sessions', 'session'); alias=default
+(0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (6) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(6,); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'widget_tweaks'; args=('widget_tweaks',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'widget_tweaks'; args=('widget_tweaks',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'database'; args=('database',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'database' AND "django_content_type"."model" IN ('servicemetadata', 'databasedetails', 'usermetadata', 'heartbeatrate', 'bookingmetadata', 'pendingupdates')); args=('database', 'servicemetadata', 'databasedetails', 'usermetadata', 'heartbeatrate', 'bookingmetadata', 'pendingupdates'); alias=default
+(0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (7, 8, 9, 10, 11, 12) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(7, 8, 9, 10, 11, 12); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'database'; args=('database',); alias=default
+(0.006) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.001) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.001) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.001) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.001) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'admin' AND "django_content_type"."model" IN ('logentry')); args=('admin', 'logentry'); alias=default
+(0.001) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (1) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(1,); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'auth' AND "django_content_type"."model" IN ('group', 'user', 'permission')); args=('auth', 'group', 'user', 'permission'); alias=default
+(0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (2, 3, 4) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(2, 3, 4); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'contenttypes' AND "django_content_type"."model" IN ('contenttype')); args=('contenttypes', 'contenttype'); alias=default
+(0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (5) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(5,); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sessions' AND "django_content_type"."model" IN ('session')); args=('sessions', 'session'); alias=default
+(0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (6) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(6,); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'widget_tweaks'; args=('widget_tweaks',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'widget_tweaks'; args=('widget_tweaks',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'database'; args=('database',); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'database' AND "django_content_type"."model" IN ('heartbeatrate', 'usermetadata', 'databasedetails', 'bookingmetadata', 'pendingupdates', 'servicemetadata')); args=('database', 'heartbeatrate', 'usermetadata', 'databasedetails', 'bookingmetadata', 'pendingupdates', 'servicemetadata'); alias=default
+(0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (7, 8, 9, 10, 11, 12) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(7, 8, 9, 10, 11, 12); alias=default
+(0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'database'; args=('database',); alias=default
+Exception while resolving variable 'error' in template 'accounts/login.html'.
+Traceback (most recent call last):
+  File "/Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/base.py", line 883, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "/Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/context.py", line 85, in __getitem__
+    raise KeyError(key)
+KeyError: 'error'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/base.py", line 889, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+                                            ^^^^^^^^
+AttributeError: type object 'RequestContext' has no attribute 'error'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/base.py", line 899, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'error'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/base.py", line 906, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [error] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: 'wF0ZfzYEGG1JMmkO6H0pm75aGTs03prS31QRnD86r7gS9XsLSiMv3tZbVnWXFgve'>, 'request': <WSGIRequest: GET '/login'>, 'user': <SimpleLazyObject: <function AuthenticationMiddleware.process_request.<locals>.<lambda> at 0x105ee2c00>>, 'perms': PermWrapper(<SimpleLazyObject: <function AuthenticationMiddleware.process_request.<locals>.<lambda> at 0x105ee2c00>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/login'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <LoginForm bound=False, valid=False, fields=(email;password)>}, {'block': <Block Node: form_block. Contents: [<TextNode: '\n\n    <div class="column '>, <django.template.defaulttags.CsrfTokenNode object at 0x106413140>, <TextNode: '\n                <div cla'>, <widget_tweaks.templatetags.widget_tweaks.FieldAttributeNode object at 0x106449a30>, <TextNode: '\n                    </di'>, <widget_tweaks.templatetags.widget_tweaks.FieldAttributeNode object at 0x10644a300>, <TextNode: '\n                    </di'>, <URLNode view_name=''accounts:Signup'' args=[] kwargs={} as=None>, <TextNode: '"><strong>Sign Up</strong'>, <URLNode view_name=''accounts:Forgot'' args=[] kwargs={} as=None>, <TextNode: '"><strong>Forgot Password'>, <IfNode>, <TextNode: '\n        </div>\n        <'>]>}]
+"GET /login HTTP/1.1" 200 3393
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/staticfiles/storage.py first seen with mtime 1736436582.7414873
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/storage/session.py first seen with mtime 1736436582.6418762
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/storage/cookie.py first seen with mtime 1736436582.6416237
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/context_processors.py first seen with mtime 1736436582.6409152
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/sessions/serializers.py first seen with mtime 1736436582.6901736
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/messages/storage/fallback.py first seen with mtime 1736436582.641791
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/contrib/auth/context_processors.py first seen with mtime 1736436582.48738
+File /Users/vudangkhoa/venv/lib/python3.12/site-packages/django/template/context_processors.py first seen with mtime 1736436582.7789273
+File /Users/vudangkhoa/Work/Distributed-Database/server/server/settings.py previous mtime: 1737693007.6162505, current mtime: 1737936959.4102054
+/Users/vudangkhoa/Work/Distributed-Database/server/server/settings.py notified as changed. Signal results: [(<function template_changed at 0x104a9a2a0>, None), (<function translation_file_changed at 0x105d63b00>, None)].
+/Users/vudangkhoa/Work/Distributed-Database/server/server/settings.py changed, reloading.

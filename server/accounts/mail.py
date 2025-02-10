@@ -5,7 +5,7 @@ from django.urls import reverse
 WEBSITE = '127.0.0.1:9000'
 
 def sendUserRegisteredMail(name, email, token):
-    Subject = 'Welcome to MCQTS'
+    Subject = 'Welcome to Vu Dang Khoa'
     Body = 'Hello, ' + name + '<br> <br> ' + 'Thankyou for registering at MCQTS. Your new account has been created. You may login after activating your account. Click the link to activate your account: <br>'
     Body += ' <br> Link: ' + 'http://localhost:8000' + reverse('accounts:activate') + '?id='+ http.urlquote_plus(email) +'&token='+ http.urlquote_plus(token)
     Body += '<br> <br> <b> This is an automatically generated email. Do not reply back. </b> <br> <br>'

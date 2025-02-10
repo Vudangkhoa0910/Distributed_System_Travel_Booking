@@ -4,7 +4,7 @@ sudo apt install postgresql postgresql-contrib
 
 SETTING UP MULTIPLE INSTANCES OF THE DATABASE:
 
-1. Create 5 new folders - primary, db01, db02, db03, db04, db05 (preferable in the directory /usr/local/postgres/)
+1. Create 5 new folders - primary, db01, db02, db03, db04 (preferable in the directory /usr/local/postgres/)
 
 2. Create clusters:
 
@@ -32,7 +32,7 @@ INSTALLATION AND RUNNING THE PROJECT:
 
 python db01/manage.py runserver 9001
 python db02/manage.py runserver 9002
-python db02/manage.py runserver 9002
+python db03/manage.py runserver 9003
 python db04/manage.py runserver 9004
 python server/manage.py runserver 9000
 
@@ -41,4 +41,4 @@ python server/manage.py runserver 9000
 
 5. Goto 127.0.0.1:9000/admin and login as the superuser.
 6. Goto the model database details and enter all database details.
-7. Goto 127.0.0.1:9000/login 
+7. Goto 127.0.0.1:9000/login
